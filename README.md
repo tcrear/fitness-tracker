@@ -39,3 +39,7 @@ U of MN Bootcamp homework 18
   [Link to Repo] https://github.com/tcrear/fitness-tracker    
   [Link to App] https://crear-fitness-tracker.herokuapp.com/
 
+  ## Deloyed Site Screenshot
+  ![image](https://github.com/tcrear/fitness-tracker/blob/main/assets/Capture-18.JPG)
+
+
